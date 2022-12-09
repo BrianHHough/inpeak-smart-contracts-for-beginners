@@ -19,7 +19,7 @@ Helpful tools for the workshop:
 
 ### 👨‍💻 Part 1: Read-Write Public Smart Contract
 
-```swift
+```solidity
 // SPDX-License-Identifier: MIT
 
 // declare the version of solidity for the contract
@@ -47,7 +47,7 @@ contract ChangeStateInput {
 
 ### 👨‍💻 Part 2: Soulbound Token Smart Contract
 
-```swift
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
