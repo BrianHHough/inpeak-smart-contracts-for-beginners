@@ -1,5 +1,6 @@
-![](./assets/banner_Smart_Contracts_for_Beginners-min.png)
 # **InPeak: Smart Contracts for Beginners Workshop**
+![](./assets/banner_Smart_Contracts_for_Beginners-min.png)
+
 Presented by: Brian H. Hough ([@BrianHHough](https://twitter.com/brianhhough))
 
 Date: Thursday, December 8, 2022
